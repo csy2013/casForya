@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cas-management-webapp/cas-management-webapp.iml" filepath="$PROJECT_DIR$/cas-management-webapp/cas-management-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server.iml" filepath="$PROJECT_DIR$/cas-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-core/cas-server-core.iml" filepath="$PROJECT_DIR$/cas-server-core/cas-server-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-extension-clearpass/cas-server-extension-clearpass.iml" filepath="$PROJECT_DIR$/cas-server-extension-clearpass/cas-server-extension-clearpass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-integration-ehcache/cas-server-integration-ehcache.iml" filepath="$PROJECT_DIR$/cas-server-integration-ehcache/cas-server-integration-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-integration-jboss/cas-server-integration-jboss.iml" filepath="$PROJECT_DIR$/cas-server-integration-jboss/cas-server-integration-jboss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-integration-memcached/cas-server-integration-memcached.iml" filepath="$PROJECT_DIR$/cas-server-integration-memcached/cas-server-integration-memcached.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-integration-restlet/cas-server-integration-restlet.iml" filepath="$PROJECT_DIR$/cas-server-integration-restlet/cas-server-integration-restlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-generic/cas-server-support-generic.iml" filepath="$PROJECT_DIR$/cas-server-support-generic/cas-server-support-generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-jdbc/cas-server-support-jdbc.iml" filepath="$PROJECT_DIR$/cas-server-support-jdbc/cas-server-support-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-ldap/cas-server-support-ldap.iml" filepath="$PROJECT_DIR$/cas-server-support-ldap/cas-server-support-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-legacy/cas-server-support-legacy.iml" filepath="$PROJECT_DIR$/cas-server-support-legacy/cas-server-support-legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-oauth/cas-server-support-oauth.iml" filepath="$PROJECT_DIR$/cas-server-support-oauth/cas-server-support-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-openid/cas-server-support-openid.iml" filepath="$PROJECT_DIR$/cas-server-support-openid/cas-server-support-openid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-pac4j/cas-server-support-pac4j.iml" filepath="$PROJECT_DIR$/cas-server-support-pac4j/cas-server-support-pac4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-radius/cas-server-support-radius.iml" filepath="$PROJECT_DIR$/cas-server-support-radius/cas-server-support-radius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-saml/cas-server-support-saml.iml" filepath="$PROJECT_DIR$/cas-server-support-saml/cas-server-support-saml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-spnego/cas-server-support-spnego.iml" filepath="$PROJECT_DIR$/cas-server-support-spnego/cas-server-support-spnego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-trusted/cas-server-support-trusted.iml" filepath="$PROJECT_DIR$/cas-server-support-trusted/cas-server-support-trusted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-support-x509/cas-server-support-x509.iml" filepath="$PROJECT_DIR$/cas-server-support-x509/cas-server-support-x509.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-uber-webapp/cas-server-uber-webapp.iml" filepath="$PROJECT_DIR$/cas-server-uber-webapp/cas-server-uber-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-webapp/cas-server-webapp.iml" filepath="$PROJECT_DIR$/cas-server-webapp/cas-server-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cas-server-webapp-support/cas-server-webapp-support.iml" filepath="$PROJECT_DIR$/cas-server-webapp-support/cas-server-webapp-support.iml" />
+    </modules>
+  </component>
+</project>

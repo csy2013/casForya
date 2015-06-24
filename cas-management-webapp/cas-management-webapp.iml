@@ -22,15 +22,15 @@
     <facet type="Spring" name="Spring">
       <configuration>
         <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/cas-management-servlet.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/log4jConfiguration.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/securityContext.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/filters.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/view/views.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/auditTrailContext.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/propertyFileConfigurer.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/log4jConfiguration.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring-configuration/filters.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/managementConfigContext.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/view/views.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/cas-management-servlet.xml</file>
         </fileset>
       </configuration>
     </facet>

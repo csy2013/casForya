@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AjcSettings">
+    <option name="ajcPath" value="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.6.11/aspectjtools-1.6.11.jar" />
+    <option name="delegateToJavac" value="true" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-trusted" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-trusted" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-x509" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-x509" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-radius" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-radius" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-spnego" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-spnego" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-saml" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-saml" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-integration-jboss" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-integration-jboss" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-oauth" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-oauth" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-pac4j" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-pac4j" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-webapp-support" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-webapp-support" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-generic" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-generic" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-core" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-core" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-webapp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-webapp" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-legacy" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-legacy" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-openid" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-openid" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-jdbc" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-jdbc" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-support-ldap" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-support-ldap" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-uber-webapp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-uber-webapp" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-integration-restlet" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-integration-restlet" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-integration-ehcache" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-integration-ehcache" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-integration-memcached" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-integration-memcached" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-management-webapp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-management-webapp" />
+      </profile>
+      <profile default="false" name="Annotation profile for cas-server-extension-clearpass" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cas-server-extension-clearpass" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cas-management-webapp" target="1.6" />
+      <module name="cas-server" target="1.6" />
+      <module name="cas-server-core" target="1.6" />
+      <module name="cas-server-extension-clearpass" target="1.6" />
+      <module name="cas-server-integration-ehcache" target="1.6" />
+      <module name="cas-server-integration-jboss" target="1.6" />
+      <module name="cas-server-integration-memcached" target="1.6" />
+      <module name="cas-server-integration-restlet" target="1.6" />
+      <module name="cas-server-support-generic" target="1.6" />
+      <module name="cas-server-support-jdbc" target="1.6" />
+      <module name="cas-server-support-ldap" target="1.6" />
+      <module name="cas-server-support-legacy" target="1.6" />
+      <module name="cas-server-support-oauth" target="1.6" />
+      <module name="cas-server-support-openid" target="1.6" />
+      <module name="cas-server-support-pac4j" target="1.6" />
+      <module name="cas-server-support-radius" target="1.6" />
+      <module name="cas-server-support-saml" target="1.6" />
+      <module name="cas-server-support-spnego" target="1.6" />
+      <module name="cas-server-support-trusted" target="1.6" />
+      <module name="cas-server-support-x509" target="1.6" />
+      <module name="cas-server-uber-webapp" target="1.6" />
+      <module name="cas-server-webapp" target="1.6" />
+      <module name="cas-server-webapp-support" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

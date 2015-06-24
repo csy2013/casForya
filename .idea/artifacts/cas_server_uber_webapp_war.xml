@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cas-server-uber-webapp:war">
+    <output-path>$PROJECT_DIR$/cas-server-uber-webapp/target</output-path>
+    <root id="archive" name="cas.war">
+      <element id="artifact" artifact-name="cas-server-uber-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

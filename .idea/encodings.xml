@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-management-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-extension-clearpass" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-integration-ehcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-integration-jboss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-integration-memcached" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-integration-restlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-generic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-ldap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-legacy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-openid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-pac4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-radius" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-saml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-spnego" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-trusted" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-support-x509" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-uber-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cas-server-webapp-support" charset="UTF-8" />
+  </component>
+</project>
